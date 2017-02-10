@@ -7,3 +7,12 @@ C:\Users\mjohnson\Projects\TestWinForms3\obj\Debug\TestWinForms3.Properties.Reso
 C:\Users\mjohnson\Projects\TestWinForms3\obj\Debug\TestWinForms3.csproj.GenerateResource.Cache
 C:\Users\mjohnson\Projects\TestWinForms3\obj\Debug\TestWinForms3.exe
 C:\Users\mjohnson\Projects\TestWinForms3\obj\Debug\TestWinForms3.pdb
+C:\Users\Milo\Projects\GitHub\TestWinForms3\bin\Debug\TestWinForms3.exe.config
+C:\Users\Milo\Projects\GitHub\TestWinForms3\obj\Debug\TestWinForms3.exe
+C:\Users\Milo\Projects\GitHub\TestWinForms3\obj\Debug\TestWinForms3.pdb
+C:\Users\Milo\Projects\GitHub\TestWinForms3\bin\Debug\TestWinForms3.exe
+C:\Users\Milo\Projects\GitHub\TestWinForms3\bin\Debug\TestWinForms3.pdb
+C:\Users\Milo\Projects\GitHub\TestWinForms3\obj\Debug\TestWinForms3.csprojResolveAssemblyReference.cache
+C:\Users\Milo\Projects\GitHub\TestWinForms3\obj\Debug\TestWinForms3.Form1.resources
+C:\Users\Milo\Projects\GitHub\TestWinForms3\obj\Debug\TestWinForms3.Properties.Resources.resources
+C:\Users\Milo\Projects\GitHub\TestWinForms3\obj\Debug\TestWinForms3.csproj.GenerateResource.Cache
